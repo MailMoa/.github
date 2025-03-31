@@ -20,3 +20,6 @@
 ## 버그 제보 혹은 개인적인 질문
 
 [btm.email2769@gmail.com](mailto:btm.email2769@gmail.com)
+
+
+![mona-whisper](https://github.com/user-attachments/assets/f7fe7522-38eb-4247-bf05-3a809e1a8b56)
